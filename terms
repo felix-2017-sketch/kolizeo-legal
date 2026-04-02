@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Términos y Condiciones - Kolizeo</title>
+  <style>
+    body{
+      font-family: system-ui,-apple-system,Segoe UI,Roboto,Arial;
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 16px;
+      line-height: 1.6;
+      color: #222;
+    }
+    h1,h2{line-height:1.2}
+    h1{margin-bottom: 0}
+    .muted{color:#666;margin-bottom:20px}
+  </style>
+</head>
+<body>
+
+<h1>Términos y Condiciones de Uso</h1>
+<p class="muted">Kolizeo – Versión v1.2 – 29 de marzo de 2026</p>
+
+<h2>1. Aceptación de los términos</h2>
+<p>Al descargar, registrarte o utilizar la App, aceptas estos términos. Si no estás de acuerdo, no utilices la App.</p>
+
+<h2>2. Identidad del operador</h2>
+<p>Nombre comercial: Kolizeo<br>
+Correo: kolizeomexico@gmail.com<br>
+País: México</p>
+
+<h2>3. Naturaleza del servicio</h2>
+<p>Kolizeo es una app de entretenimiento deportivo con puntos virtuales ficticios. No hay dinero real, premios en efectivo ni valor económico.</p>
+
+<h2>4. Funcionalidades</h2>
+<p>Incluye perfiles, retos, torneos, ranking, notificaciones, puntos virtuales y sistema social.</p>
+
+<h2>5. Torneos</h2>
+<p>Los usuarios pueden crear torneos. El creador es responsable del contenido.</p>
+
+<h2>6. Datos deportivos</h2>
+<p>La app usa APIs externas. No se garantiza exactitud o disponibilidad permanente.</p>
+
+<h2>7. Edad mínima</h2>
+<p>Solo para mayores de 18 años.</p>
+
+<h2>8. Uso permitido</h2>
+<p>Prohibido uso con dinero real, fraude, abuso, suplantación o contenido ofensivo.</p>
+
+<h2>9. Cuentas</h2>
+<p>El usuario es responsable de su cuenta y actividad.</p>
+
+<h2>10. Suspensión</h2>
+<p>Kolizeo puede suspender cuentas o contenido por incumplimiento.</p>
+
+<h2>11. Puntos virtuales</h2>
+<p>No tienen valor monetario ni pueden transferirse.</p>
+
+<h2>12. Publicidad</h2>
+<p>La app puede mostrar anuncios para obtener puntos.</p>
+
+<h2>13. Propiedad intelectual</h2>
+<p>Todo el contenido pertenece a Kolizeo o sus titulares.</p>
+
+<h2>14. Limitación de responsabilidad</h2>
+<p>El servicio se ofrece sin garantías. No se asegura disponibilidad continua.</p>
+
+<h2>15. Modificaciones</h2>
+<p>Los términos pueden cambiar en cualquier momento.</p>
+
+<h2>16. Jurisdicción</h2>
+<p>Leyes de México. Tribunales en Puebla.</p>
+
+<h2>17. Contacto</h2>
+<p>kolizeomexico@gmail.com</p>
+
+</body>
+</html>
